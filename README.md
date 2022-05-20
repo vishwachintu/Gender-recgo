@@ -11,7 +11,7 @@ This repository is about building a deep learning model using TensorFlow 2 to re
 
 Cloning the repository:
 
-    git clone 
+    git clone https://github.com/vishwachintu/Gender-recgo
 
 Installing the required libraries:
 
