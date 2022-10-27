@@ -1,5 +1,5 @@
 # Gender Recognition using Voice
-This repository is about building a deep learning model using TensorFlow 2 to recognize gender of a given speaker's audio. Read this [tutorial] for more information.
+This repository is about building a deep learning model using TensorFlow 2 to recognize gender of a given speaker's audio. Read this [tutorial](https://www.drpinnacle.com/post/gender-recognition-by-voice-is-a-technique-in-which-you-can-determine-the-gender-category-of-a-speak) for more information.
 
 ## Requirements
 - TensorFlow 2.x.x
